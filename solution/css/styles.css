@@ -55,4 +55,17 @@ body {
    	font-family: 'Cabin Sketch', cursive;
 
    }
+   .gotop {
+      color:#E6C973;
+      background-color: #3377AA;
+      width:100%;
+      text-align: center;
+      position: relative;
+}
+
+.gotop:hover, .gotop:active {
+    color: white;
+    background-color: #227799;
+}
+
 @media
