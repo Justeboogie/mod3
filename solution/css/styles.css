@@ -10,8 +10,9 @@ body {
 	border:0;
 }
 
-#navbar-brand {
-	font-size: 5em;
+
+.navbar-header .navbar-brand {
+	font-size: 3em;
 	color:#E6C973;
     font-family: 'Cabin Sketch', cursive;
     
@@ -24,11 +25,12 @@ body {
 	color:white;
 }
 #nav-list {
-	margin-top: 15px;
+	margin-top: 25px;
 	font-size: 20px;
 	font-weight: bold;
-	color: white;
-	background-color: #4DB788;
+	background-color: #E6C973;
+	font-family: 'Cabin Sketch', cursive;
+
 	
 
 }
@@ -67,5 +69,3 @@ body {
     color: white;
     background-color: #227799;
 }
-
-@media
