@@ -1,0 +1,58 @@
+body {
+	fontsize: 17px;
+	background-color: #80C8B5;
+
+
+}
+#header-nav {
+	background-color: #332F3E;
+	border-radius: 0;
+	border:0;
+}
+
+h1 {
+	font-size: 5em;
+	color:#E6C973;
+    font-family: 'Cabin Sketch', cursive;
+    
+	
+}
+
+#menu {
+	font-size: 3em;
+	font-family: 'Cabin Sketch', cursive;
+	color:white;
+}
+#nav-list {
+	margin-top: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	background-color: #4DB788;
+	
+
+}
+
+}
+#navbar-collapse-1 {
+
+}
+
+#main-content {
+   background-color:#E6C973;
+   height: 900px;
+   margin-top:60px;
+   padding-top: 50px;
+   padding-right: 35px;
+   padding-left: 35px;
+   font-size: 17px;
+   color: #332F3E;
+   overflow: hidden;
+   padding-bottom: 20px;
+
+   }
+   #name {
+   	font-family: 'Cabin Sketch', cursive;
+
+   }
+@media
