@@ -10,7 +10,7 @@ body {
 	border:0;
 }
 
-h1 {
+#navbar-brand {
 	font-size: 5em;
 	color:#E6C973;
     font-family: 'Cabin Sketch', cursive;
